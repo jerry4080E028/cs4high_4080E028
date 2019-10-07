@@ -1,0 +1,7 @@
+# base64
+```
+QnJlYWtBTExDVEZ7WHZYZVZYNUFlOUZ3blltRFYyalV9
+```
+```
+BreakALLCTF{XvXeVX5Ae9FwnYmDV2jU}
+```
